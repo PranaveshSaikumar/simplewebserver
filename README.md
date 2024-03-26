@@ -1,6 +1,6 @@
 # EX01 Developing a Simple Webserver
 ## Date:
-
+25/03/2024
 ## AIM:
 To develop a simple webserver to serve html pages.
 
@@ -50,7 +50,8 @@ httpd = HTTPServer(server_address,MyServer)
 httpd.serve_forever()
 ```
 ## OUTPUT:
-
+![s2](https://github.com/PranaveshSaikumar/simplewebserver/assets/151001393/0ad5f254-f2db-4ef5-b795-bb88405cf775)
+![sc1](https://github.com/PranaveshSaikumar/simplewebserver/assets/151001393/87e6d571-250e-4853-9af5-b270290e0633)
 
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
